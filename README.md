@@ -120,7 +120,15 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 Thank you for exploring my Mutual Fund Analysis project!  
 I’m always open to suggestions, improvements, or collaboration ideas.
 
-📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/krish-attrish/)  
-📧 Or drop an email: **Kattrish_be22@thapar.edu**
+---
+
+### 👤 Maintainer (Forked Version)
+
+**Devarshi Srivastava**  
+📌 GitHub: https://github.com/devarshisrivastava  
+
+This fork focuses on understanding data preprocessing, fund scoring logic,
+Power BI storytelling, and financial insights for interview readiness.
+
 
 Your feedback helps me grow and build better data-driven solutions. Let’s connect and discuss ideas!
